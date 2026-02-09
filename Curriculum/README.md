@@ -40,7 +40,7 @@
 
 | File | Topic | Duration | Concepts |
 |------|-------|----------|----------|
-| **[Day1-Introduction-and-Values.md](./Week-1/Day1-Introduction-and-Values.md)** | Intro, Values, Types | 3 hrs | What is JS? Numbers, Strings, Booleans, Type Coercion |
+| **[Day1-Introduction-and-Values.md](./Week-1/Day1-Introduction-and-Values.md)** | Intro, Values, Types | 3 hrs | What is JS? Numbers, Strings, Booleans, Empty Values, Type Coercion |
 | **[Day2-Types-Operators-Part1.md](./Week-1/Day2-Types-Operators-Part1.md)** | Arithmetic Operations | 3 hrs | All 7 data types, +,-,*,/,%,** operators |
 | **[Day3-Logical-Comparison-Operators.md](./Week-1/Day3-Logical-Comparison-Operators.md)** | Logic & Comparisons | 3 hrs | ===, >, <, &&, \|\|, !, Truth tables |
 | **[Day4-Unary-Special-Operators.md](./Week-1/Day4-Unary-Special-Operators.md)** | Advanced Operators | 3 hrs | typeof, ?:, ??, ++, --, Boolean logic |
@@ -53,16 +53,70 @@
 - ✅ 1 comprehensive mini-project
 - ✅ Detailed explanations with visual analogies
 
-### 📖 Week 2-6 (Structure Ready)
+### 📖 Week 2 Content (Complete)
 
-**Path:** `Week-2/` through `Week-6/` (Template provided)
+**Path:** `Week-2/`
 
-**To Create Week 2:**
-1. Copy Week 1 structure
-2. Follow same pattern: Day1-Day5 files
-3. Topics: if/else, loops, functions, scope
-4. Create 5 new sample code files
-5. Design 5 new assignments
+| File | Topic | Duration | Concepts |
+|------|-------|----------|----------|
+| **[Day1-Expressions-Statements-Bindings.md](./Week-2/Day1-Expressions-Statements-Bindings.md)** | Expressions & Bindings | 3 hrs | Expressions vs Statements, Expression Statements, const/let/var, Naming |
+| **[Day2-Functions-And-Return-Values.md](./Week-2/Day2-Functions-And-Return-Values.md)** | Functions | 3 hrs | Parameters, Return values, Arrow functions, DRY principle |
+| **[Day3-Conditional-Execution.md](./Week-2/Day3-Conditional-Execution.md)** | Conditionals | 3 hrs | Control Flow types, if/else, switch, Exp 8-10 |
+| **[Day4-While-And-Do-Loops.md](./Week-2/Day4-While-And-Do-Loops.md)** | Loops | 3 hrs | while, do-while, break, continue, Exp 11-12 |
+| **[Day5-For-Loops-And-Integration.md](./Week-2/Day5-For-Loops-And-Integration.md)** | For Loops & Integration | 3 hrs | for loops, Grade Management System |
+
+### 📖 Week 3 Content (Complete)
+
+**Path:** `Week-3/`
+
+| File | Topic | Duration | Concepts |
+|------|-------|----------|----------|
+| **[Day1-Functions-As-Values-And-Scope.md](./Week-3/Day1-Functions-As-Values-And-Scope.md)** | Functions Deep Dive | 3 hrs | Declaration notation, Hoisting, Call stack, Closures deep dive, Recursion, Optional arguments, Rest parameters, Growing functions |
+| **[Day2-Arrays-And-Array-Methods.md](./Week-3/Day2-Arrays-And-Array-Methods.md)** | Arrays | 3 hrs | Data sets, push/pop/shift/unshift, Further arrayology (find, some, every, flat, flatMap) |
+| **[Day3-Strings-And-String-Methods.md](./Week-3/Day3-Strings-And-String-Methods.md)** | Strings | 3 hrs | String methods, Character codes, Exp 13-14 |
+| **[Day4-Advanced-String-Operations.md](./Week-3/Day4-Advanced-String-Operations.md)** | Advanced Strings | 3 hrs | Split, join, replace, trim, patterns, Exp 15-16 |
+| **[Day5-Objects-And-Integration.md](./Week-3/Day5-Objects-And-Integration.md)** | Objects & Integration | 3 hrs | Object mutability, Computing correlation, Contact Manager |
+
+### 📖 Week 4 Content (Complete)
+
+**Path:** `Week-4/`
+
+| File | Topic | Duration | Concepts |
+|------|-------|----------|----------|
+| **[Day1-Higher-Order-Functions-Map.md](./Week-4/Day1-Higher-Order-Functions-Map.md)** | HOFs & map() | 3 hrs | Abstraction, Callbacks, map(), Strings and character codes |
+| **[Day2-Filter-And-Reduce.md](./Week-4/Day2-Filter-And-Reduce.md)** | filter() & reduce() | 3 hrs | filter(), reduce(), Script data set, Composition |
+| **[Day3-Dates-Timers-Experiments17-19.md](./Week-4/Day3-Dates-Timers-Experiments17-19.md)** | Dates & Timers | 3 hrs | Date object, setTimeout/setInterval, Exp 17-19 |
+| **[Day4-Advanced-Array-Operations-Experiments20-22.md](./Week-4/Day4-Advanced-Array-Operations-Experiments20-22.md)** | Advanced Arrays | 3 hrs | Remove, merge, deduplicate, sort, Exp 20-22 |
+| **[Day5-Data-Processing-Integration.md](./Week-4/Day5-Data-Processing-Integration.md)** | Data Processing | 3 hrs | Composability, Recognizing text, E-Commerce Dashboard |
+
+### 📖 Week 5 Content (Complete)
+
+**Path:** `Week-5/`
+
+| File | Topic | Duration | Concepts |
+|------|-------|----------|----------|
+| **[Day1-OOP-Fundamentals-Classes.md](./Week-5/Day1-OOP-Fundamentals-Classes.md)** | OOP & Classes | 3 hrs | Classes, Prototypes, Getters/setters, Private # fields, Maps |
+| **[Day2-Inheritance-Polymorphism.md](./Week-5/Day2-Inheritance-Polymorphism.md)** | Inheritance | 3 hrs | extends, super, Overriding, Symbols, Iterator interface, instanceof |
+| **[Day3-File-Operations-Experiments23-24.md](./Week-5/Day3-File-Operations-Experiments23-24.md)** | File Ops & Types | 3 hrs | File extensions, undefined/null checking, Exp 23-24 |
+| **[Day4-Day5-OOP-Integration-Final.md](./Week-5/Day4-Day5-OOP-Integration-Final.md)** | OOP Integration | 6 hrs | File Manager System, Class hierarchies, Composition |
+
+### 📖 Week 6 Content (Complete)
+
+**Path:** `Week-6/`
+
+| File | Topic | Duration | Concepts |
+|------|-------|----------|----------|
+| **[Week6-Final-Review-Assessment.md](./Week-6/Week6-Final-Review-Assessment.md)** | Review & Assessment | 15 hrs | Comprehensive review of Weeks 1-5, Practice problems, Exam framework |
+
+**Self-Study Materials** (in `Week-6/Self-Study/`):
+
+| File | Topic | Time |
+|------|-------|------|
+| **[DOM-Manipulation.md](./Week-6/Self-Study/DOM-Manipulation.md)** | DOM tree, selecting, modifying, creating elements | 4-5 hrs |
+| **[Event-Handling.md](./Week-6/Self-Study/Event-Handling.md)** | addEventListener, bubbling, delegation, preventDefault | 3-4 hrs |
+| **[Web-APIs-localStorage-Fetch.md](./Week-6/Self-Study/Web-APIs-localStorage-Fetch.md)** | localStorage, sessionStorage, Fetch API, HTTP methods | 4-5 hrs |
+| **[Async-JavaScript.md](./Week-6/Self-Study/Async-JavaScript.md)** | Callbacks, Promises, async/await, event loop | 5-6 hrs |
+| **[Modules-and-Code-Organization.md](./Week-6/Self-Study/Modules-and-Code-Organization.md)** | ES6 import/export, project structure patterns | 3-4 hrs |
 
 ### 🛠️ Guides & Integration
 
@@ -109,41 +163,53 @@ WEEK 1: FUNDAMENTALS
 ├── Arithmetic Operations
 ├── Logical Operations
 ├── Special Operators
+├── Empty Values & Type Conversion
 └── Mini-Project: Expense Calculator
            ↓
 WEEK 2: PROGRAM STRUCTURE
-├── if/else Statements
-├── Switch Statements
+├── Expression Statements
+├── if/else & Switch Statements
+├── Control Flow Types
 ├── Loops (for, while, do-while)
 ├── Functions & Scope
-└── Project: Guessing Game
+└── Project: Grade Management System
            ↓
-WEEK 3: DATA STRUCTURES
-├── Arrays & Methods
-├── Objects & Properties
+WEEK 3: FUNCTIONS & DATA STRUCTURES
+├── Declaration Notation & Hoisting
+├── Call Stack & Closures Deep Dive
+├── Recursion & Optional Arguments
+├── Rest Parameters & Growing Functions
+├── Arrays & Further Arrayology
+├── Objects, Mutability & Correlation
 ├── String Methods
-├── Data Organization
-└── Project: Todo List
+└── Project: Contact Manager
            ↓
 WEEK 4: HIGHER-ORDER FUNCTIONS
-├── Callbacks
+├── Abstraction & Abstracting Repetition
 ├── map(), filter(), reduce()
-├── Closures
-├── Function Composition
-└── Project: Data Dashboard
+├── Script Data Set
+├── Strings & Character Codes
+├── Composability & Recognizing Text
+├── Date & Time Operations
+└── Project: E-Commerce Dashboard
            ↓
 WEEK 5: OBJECT-ORIENTED PROGRAMMING
-├── Classes & Constructors
-├── Inheritance
-├── Prototypes
-├── Polymorphism
-└── Project: Game Engine
+├── Classes, Prototypes & Constructors
+├── Getters, Setters & Private # Fields
+├── Maps (Data Structure)
+├── Inheritance & Overriding
+├── Symbols & Iterator Interface
+├── Polymorphism & instanceof
+└── Project: File Manager System
            ↓
 WEEK 6: INTEGRATION & ADVANCED
-├── DOM Manipulation
-├── Events
-├── Browser APIs
-├── Final Project
+├── Comprehensive Review (Weeks 1-5)
+├── Assessment Framework
+├── Self-Study: DOM Manipulation
+├── Self-Study: Event Handling
+├── Self-Study: Web APIs (localStorage, Fetch)
+├── Self-Study: Async JavaScript
+├── Self-Study: Modules & Code Organization
 └── Course Assessment
 ```
 
@@ -428,8 +494,14 @@ Track these throughout course:
 - [Google-Classroom-Integration.md](./Guides/Google-Classroom-Integration.md)
 - [GitHub-Classroom-Guide.md](./Guides/GitHub-Classroom-Guide.md)
 
-### Content
-- [Week-1/Day1-5 files](./Week-1/)
+### Content (All Weeks)
+- [Week-1/ — Fundamentals](./Week-1/)
+- [Week-2/ — Program Structure](./Week-2/)
+- [Week-3/ — Functions & Data Structures](./Week-3/)
+- [Week-4/ — Higher-Order Functions](./Week-4/)
+- [Week-5/ — OOP & Advanced](./Week-5/)
+- [Week-6/ — Review & Assessment](./Week-6/)
+- [Week-6/Self-Study/ — Advanced Self-Study](./Week-6/Self-Study/)
 - [Sample Code Examples](./Sample-Code/)
 
 ---
@@ -445,14 +517,15 @@ Track these throughout course:
 
 ## 🌟 YOU'RE ALL SET!
 
-This comprehensive curriculum is ready for immediate deployment. Everything you need is:
+This comprehensive curriculum is **fully complete** and ready for deployment. Everything you need is:
 
-✅ **Organized** - Clear folder structure  
-✅ **Detailed** - Comprehensive explanations  
-✅ **Practical** - Hands-on exercises  
-✅ **Integrated** - Google Classroom + GitHub  
-✅ **Supported** - Guides and instructions  
-✅ **AI-Ready** - COPILOT_INSTRUCTIONS.md  
+✅ **Organized** — Clear folder structure (6 weeks + self-study)  
+✅ **Detailed** — Comprehensive explanations with deep dives into all syllabus topics  
+✅ **Practical** — 200+ hands-on exercises and 24 official experiments  
+✅ **Complete** — All 5 theory units fully covered with expanded content  
+✅ **Extended** — 5 self-study documents for advanced topics  
+✅ **Integrated** — GitHub Classroom + assessment framework  
+✅ **AI-Ready** — COPILOT_INSTRUCTIONS.md for consistent assistance  
 
 **Go teach an amazing course! 🚀**
 
